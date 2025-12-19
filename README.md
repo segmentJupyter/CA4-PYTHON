@@ -1,6 +1,6 @@
 # Deepfake and Fake News Detection via Spatio-Temporal and Multimodal Analysis
 
-## 📌 Project Overview
+##  Project Overview
 In the contemporary digital era, the proliferation of hyper-realistic deepfakes and automated fake news constitutes a systemic threat to the integrity of global information ecosystems.  
 This project implements a comprehensive technical framework designed to detect manipulated media by leveraging **Spatio-Temporal analysis** and **multimodal fusion**.
 
@@ -10,7 +10,7 @@ The system moves beyond traditional unimodal forensics by synthesizing **visual,
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 - **Multimodal Analysis**  
   Integrates text, image, and video processing to detect complex digital forgeries.
 
@@ -28,7 +28,7 @@ The system moves beyond traditional unimodal forensics by synthesizing **visual,
 
 ---
 
-## 🏗️ System Methodology
+##  System Methodology
 The framework is divided into three primary detection modules:
 
 ### 1. Text Analysis (Forensics)
@@ -74,7 +74,7 @@ Provides forensic justification for model outcomes to foster user trust.
 
 ---
 
-## 📊 Performance Summary
+##  Performance Summary
 Experimental validation was conducted on benchmark datasets including **FaceForensics++**, **Fakeddit**, and the **DeepFake Detection Challenge (DFDC)**.
 
 | Modality | Model | Accuracy | AUC-ROC |
@@ -87,7 +87,7 @@ Experimental validation was conducted on benchmark datasets including **FaceFore
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python 3.x  
 - **Deep Learning:** TensorFlow 2.x, Keras  
 - **Computer Vision:** OpenCV (cv2), Pillow (PIL)  
@@ -96,7 +96,7 @@ Experimental validation was conducted on benchmark datasets including **FaceFore
 
 ---
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 - **Diffusion Model Forensics**  
   Identifying unique “fingerprints” left by next-generation generative models such as **Sora** and **Stable Diffusion**.
 
@@ -111,7 +111,7 @@ Experimental validation was conducted on benchmark datasets including **FaceFore
 
 ---
 
-## 📬 Further Details
+##  Further Details
 Would you like an in-depth explanation of:
 - The **mathematical formulations** behind the TCN architecture?  
 - Or the results from **real-world, in-the-wild testing**?
